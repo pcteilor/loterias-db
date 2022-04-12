@@ -15,6 +15,45 @@ const URLAPI = 'https://loteriascaixa-api.herokuapp.com/api/';
 // Funções
 // ----------------------------------------------------------------------------------
 
+// -------------------------------------------
+// Funções herdadas - Não usadas mais
+// -------------------------------------------
+
+// Função que salva ultimo resultado da Mega-sena - Antiga
+const latestMega = async () => {
+  console.log('Carregando último sorteio...');
+   axios.get(APIlatest)
+   .then((res) => {
+       const datalatestMega = JSON.stringify(res.data, null, 2);
+         fs.writeFile('latestMega.json', datalatestMega, (err) => {
+           if (err) throw err;
+           console.log('Último sorteio salvo!');
+         })
+   })  
+};
+// Função que salva todos os resultados da Mega-sena e trata os dados - Antiga
+const allMega = async () => {
+  console.log('Carregando resultados...');
+  axios.get(APIAllMega)
+  .then((res) => {
+      const dataAllMega = JSON.stringify(res.data, null, 2);
+        fs.writeFile('src/json/allMega.json', dataAllMega, (err) => {
+          if (err) throw err;
+          console.log('Resultados salvos!');
+        })
+        console.log('Separando últimos 10 resultados...');
+        const lastTen = res.data.slice(0, 9);
+         fs.writeFile('src/json/lastTenMega.json', JSON.stringify(lastTen, null, 2), (err) => {
+          if (err) throw err;
+          console.log('Últimos 10 resultados salvos!');
+        })
+  })  
+};
+
+// -------------------------------------------
+// Funções Ativas
+// -------------------------------------------
+
 // Função geral para montar arquivos
 const writeData = async (data, fileName, local) => {
     console.log('Iniciando processo writeData...');
@@ -48,10 +87,8 @@ const getAllData = async () => {
   console.log(tracos);
   const loterias = require('./loterias.json');
   loterias.map(lot => {
-    const url = `${URLAPI}${lot}`;
-    console.log(tracos);
+    const url = `${URLAPI}${lot}`; 
     console.log(`Carregando ${lot}...`);
-    console.log(tracos);
     getData(url)
     .then((data) => {
       console.log('Gravando arquivos...');
@@ -61,46 +98,14 @@ const getAllData = async () => {
       })
       fs.stat(`./data/${lot}.json`, (err, stats) => {
         if (err) throw err;
+        console.log(tracos);
         console.log(`${lot} possui ` + convertBytes(stats.size));
+        console.log(tracos);
       })
     })
   })
 }
 
-// ----------------------------------------------------------------------------------
-// Funções herdadas
-// ----------------------------------------------------------------------------------
-
-// Função que salva ultimo resultado da Mega-sena - Antiga
-const latestMega = async () => {
-  console.log('Carregando último sorteio...');
-   axios.get(APIlatest)
-   .then((res) => {
-       const datalatestMega = JSON.stringify(res.data, null, 2);
-         fs.writeFile('latestMega.json', datalatestMega, (err) => {
-           if (err) throw err;
-           console.log('Último sorteio salvo!');
-         })
-   })  
-};
-// Função que salva todos os resultados da Mega-sena e trata os dados - Antiga
-const allMega = async () => {
-  console.log('Carregando resultados...');
-  axios.get(APIAllMega)
-  .then((res) => {
-      const dataAllMega = JSON.stringify(res.data, null, 2);
-        fs.writeFile('src/json/allMega.json', dataAllMega, (err) => {
-          if (err) throw err;
-          console.log('Resultados salvos!');
-        })
-        console.log('Separando últimos 10 resultados...');
-        const lastTen = res.data.slice(0, 9);
-         fs.writeFile('src/json/lastTenMega.json', JSON.stringify(lastTen, null, 2), (err) => {
-          if (err) throw err;
-          console.log('Últimos 10 resultados salvos!');
-        })
-  })  
-};
 //Converte Bytes em MB
 const convertBytes = function(bytes) {
   const sizes = ["Bytes", "KB", "MB", "GB", "TB"]
@@ -118,13 +123,16 @@ const convertBytes = function(bytes) {
   return (bytes / Math.pow(1024, i)).toFixed(1) + " " + sizes[i]
 }
 
-//Execute everything
+
+
+// ----------------------------------------------------------------------------------
+// Executando as funções
+// ----------------------------------------------------------------------------------
+
 console.log(tracos);
 console.log('Iniciando...');
 console.log(tracos);
-// latestMega();
-// allMega();
-//getData();
+
 getAllData();
 
 

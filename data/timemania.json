@@ -2,9 +2,614 @@
   {
     "loteria": "timemania",
     "nome": "Timemania",
+    "concurso": 1771,
+    "data": "09/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "09",
+      "16",
+      "27",
+      "36",
+      "48",
+      "61",
+      "64"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 4,
+        "premio": "40.392,11"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 189,
+        "premio": "1.221,22"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 3623,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 33501,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 8749,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 10 Milhões",
+    "dataProxConcurso": "12/04/2022",
+    "proxConcurso": 1772,
+    "timeCoracao": "Ji",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1770,
+    "data": "07/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "27",
+      "31",
+      "46",
+      "49",
+      "58",
+      "68",
+      "71"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "177.353,56"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 179,
+        "premio": "1.415,43"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 3457,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 34808,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 9703,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1771,
+    "timeCoracao": "Juventus/SP",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1769,
+    "data": "05/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "03",
+      "34",
+      "36",
+      "43",
+      "57",
+      "66",
+      "76"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 7,
+        "premio": "21.859,09"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 189,
+        "premio": "1.156,56"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 3640,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 34557,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 21118,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 9 Milhões",
+    "dataProxConcurso": "07/04/2022",
+    "proxConcurso": 1770,
+    "timeCoracao": "Botafogo/RJ",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1768,
+    "data": "02/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "05",
+      "09",
+      "20",
+      "38",
+      "52",
+      "54",
+      "61"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "70.208,67"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 132,
+        "premio": "1.519,66"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2888,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 28977,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 8397,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1769,
+    "timeCoracao": "Bangu/RJ",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1767,
+    "data": "31/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "05",
+      "33",
+      "35",
+      "38",
+      "40",
+      "56",
+      "70"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 4,
+        "premio": "30.332,98"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 142,
+        "premio": "1.220,64"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2623,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 25004,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 6486,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1768,
+    "timeCoracao": "MotoClube/MA",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1766,
+    "data": "29/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "32",
+      "43",
+      "52",
+      "54",
+      "69",
+      "71",
+      "78"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 3,
+        "premio": "37.810,92"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 103,
+        "premio": "1.573,26"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2301,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 22162,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 9704,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1767,
+    "timeCoracao": "Atlético/PR",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1765,
+    "data": "26/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "04",
+      "23",
+      "32",
+      "47",
+      "49",
+      "64",
+      "66"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 7,
+        "premio": "17.132,20"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 147,
+        "premio": "1.165,45"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2575,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 25003,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 6135,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1766,
+    "timeCoracao": "SAMPAIOCORRÊA/MA",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1764,
+    "data": "24/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "12",
+      "17",
+      "27",
+      "35",
+      "58",
+      "62",
+      "65"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 3,
+        "premio": "38.203,72"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 164,
+        "premio": "998,35"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2790,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 25747,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 6445,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1765,
+    "timeCoracao": "Marília/SP",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1763,
+    "data": "22/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "11",
+      "26",
+      "38",
+      "47",
+      "56",
+      "61",
+      "68"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "51.030,83"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 111,
+        "premio": "1.313,53"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2211,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 21171,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 15079,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 6,5 Milhões",
+    "dataProxConcurso": "24/03/2022",
+    "proxConcurso": 1764,
+    "timeCoracao": "Botafogo/RJ",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1762,
+    "data": "19/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "03",
+      "14",
+      "17",
+      "45",
+      "46",
+      "63",
+      "70"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 132,
+        "premio": "1.129,60"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2374,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 23423,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 9800,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 6 Milhões",
+    "dataProxConcurso": "22/03/2022",
+    "proxConcurso": 1763,
+    "timeCoracao": "ABC/RN",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
+    "concurso": 1761,
+    "data": "17/03/2022",
+    "local": "ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP",
+    "dezenas": [
+      "06",
+      "25",
+      "26",
+      "27",
+      "30",
+      "58",
+      "73"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "90.400,55"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 88,
+        "premio": "1.467,54"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 1849,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 18290,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 4781,
+        "premio": "7,50"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 1762,
+    "timeCoracao": "CRB/AL",
+    "mesSorte": null
+  },
+  {
+    "loteria": "timemania",
+    "nome": "Timemania",
     "concurso": 1760,
     "data": "15/03/2022",
-    "local": "",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
     "dezenas": [
       "08",
       "12",
@@ -14,10 +619,41 @@
       "70",
       "71"
     ],
-    "premiacoes": [],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 3,
+        "premio": "30.434,89"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 118,
+        "premio": "1.105,38"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 2247,
+        "premio": "9,00"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 21565,
+        "premio": "3,00"
+      },
+      {
+        "acertos": "Time do Coração",
+        "vencedores": 3415,
+        "premio": "7,50"
+      }
+    ],
     "estadosPremiados": [],
-    "acumulou": false,
-    "acumuladaProxConcurso": "a definir",
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 5,5 Milhões",
     "dataProxConcurso": "17/03/2022",
     "proxConcurso": 1761,
     "timeCoracao": "Paulista/SP",

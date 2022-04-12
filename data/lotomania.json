@@ -2,6 +2,946 @@
   {
     "loteria": "lotomania",
     "nome": "Lotomania",
+    "concurso": 2298,
+    "data": "11/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "06",
+      "09",
+      "11",
+      "18",
+      "29",
+      "33",
+      "41",
+      "43",
+      "53",
+      "56",
+      "61",
+      "62",
+      "70",
+      "73",
+      "74",
+      "88",
+      "89",
+      "96",
+      "98",
+      "99"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 2,
+        "premio": "100.115,26"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 71,
+        "premio": "1.762,59"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 645,
+        "premio": "194,02"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 3740,
+        "premio": "33,46"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 14459,
+        "premio": "8,65"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 2,5 Milhões",
+    "dataProxConcurso": "13/04/2022",
+    "proxConcurso": 2299,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2297,
+    "data": "08/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "00",
+      "01",
+      "18",
+      "21",
+      "24",
+      "26",
+      "32",
+      "33",
+      "44",
+      "46",
+      "48",
+      "53",
+      "54",
+      "57",
+      "61",
+      "64",
+      "80",
+      "81",
+      "91",
+      "96"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 7,
+        "premio": "28.564,11"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 80,
+        "premio": "1.562,10"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 664,
+        "premio": "188,20"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 3530,
+        "premio": "35,40"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 14670,
+        "premio": "8,51"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2298,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2296,
+    "data": "06/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "07",
+      "14",
+      "22",
+      "26",
+      "30",
+      "33",
+      "34",
+      "37",
+      "39",
+      "45",
+      "59",
+      "66",
+      "70",
+      "75",
+      "82",
+      "88",
+      "92",
+      "95",
+      "97",
+      "98"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 7,
+        "premio": "24.342,83"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 63,
+        "premio": "1.690,48"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 491,
+        "premio": "216,90"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 3046,
+        "premio": "34,96"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 12405,
+        "premio": "8,58"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2297,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2295,
+    "data": "04/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "02",
+      "05",
+      "06",
+      "24",
+      "26",
+      "33",
+      "35",
+      "47",
+      "50",
+      "58",
+      "66",
+      "68",
+      "71",
+      "81",
+      "82",
+      "84",
+      "86",
+      "91",
+      "93",
+      "95"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 1,
+        "premio": "1.864.385,80"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 5,
+        "premio": "41.013,65"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 88,
+        "premio": "1.456,45"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 780,
+        "premio": "164,31"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 6193,
+        "premio": "20,69"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 16297,
+        "premio": "7,86"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 3,
+        "premio": "34.178,05"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "Mato Grosso",
+        "uf": "MT",
+        "vencedores": "1",
+        "latitude": "-12.6818712",
+        "longitude": "-56.921099",
+        "cidades": [
+          {
+            "cidade": "",
+            "vencedores": "1",
+            "latitude": null,
+            "longitude": null
+          }
+        ]
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2296,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2294,
+    "data": "01/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "00",
+      "02",
+      "06",
+      "07",
+      "11",
+      "23",
+      "24",
+      "26",
+      "29",
+      "41",
+      "45",
+      "56",
+      "60",
+      "68",
+      "73",
+      "84",
+      "85",
+      "93",
+      "98",
+      "99"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 3,
+        "premio": "67.091,54"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 41,
+        "premio": "3.068,21"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 421,
+        "premio": "298,80"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 2864,
+        "premio": "43,92"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 12666,
+        "premio": "9,93"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2295,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2293,
+    "data": "30/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "02",
+      "05",
+      "07",
+      "09",
+      "18",
+      "19",
+      "30",
+      "31",
+      "33",
+      "43",
+      "45",
+      "48",
+      "50",
+      "53",
+      "76",
+      "78",
+      "79",
+      "91",
+      "93",
+      "97"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 5,
+        "premio": "31.927,53"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 51,
+        "premio": "1.956,34"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 464,
+        "premio": "215,02"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 2697,
+        "premio": "36,99"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 11238,
+        "premio": "8,87"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2294,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2292,
+    "data": "28/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "03",
+      "14",
+      "20",
+      "22",
+      "23",
+      "24",
+      "25",
+      "30",
+      "31",
+      "33",
+      "36",
+      "42",
+      "56",
+      "68",
+      "70",
+      "73",
+      "79",
+      "89",
+      "93",
+      "94"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 1,
+        "premio": "1.651.831,45"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 1,
+        "premio": "184.218,91"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 29,
+        "premio": "3.970,24"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 418,
+        "premio": "275,44"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 2429,
+        "premio": "47,40"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 11458,
+        "premio": "10,04"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "São Paulo",
+        "uf": "SP",
+        "vencedores": "1",
+        "latitude": "-23.5557714",
+        "longitude": "-46.6395571",
+        "cidades": [
+          {
+            "cidade": "",
+            "vencedores": "1",
+            "latitude": null,
+            "longitude": null
+          }
+        ]
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2293,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2291,
+    "data": "25/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "06",
+      "10",
+      "11",
+      "12",
+      "18",
+      "20",
+      "31",
+      "36",
+      "39",
+      "41",
+      "50",
+      "56",
+      "59",
+      "62",
+      "67",
+      "73",
+      "74",
+      "75",
+      "84",
+      "86"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 2,
+        "premio": "90.692,47"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 32,
+        "premio": "3.542,68"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 416,
+        "premio": "272,51"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 2590,
+        "premio": "43,77"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 11378,
+        "premio": "9,96"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 1,
+        "premio": "90.692,49"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2292,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2290,
+    "data": "23/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "05",
+      "09",
+      "10",
+      "15",
+      "21",
+      "36",
+      "38",
+      "39",
+      "40",
+      "45",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "63",
+      "87",
+      "92",
+      "94"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 5,
+        "premio": "32.174,44"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 41,
+        "premio": "2.452,32"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 399,
+        "premio": "251,99"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 2540,
+        "premio": "39,58"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 11397,
+        "premio": "8,82"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 1 Milhão",
+    "dataProxConcurso": "25/03/2022",
+    "proxConcurso": 2291,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2289,
+    "data": "21/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "01",
+      "02",
+      "20",
+      "25",
+      "26",
+      "29",
+      "38",
+      "39",
+      "49",
+      "52",
+      "55",
+      "57",
+      "59",
+      "61",
+      "75",
+      "81",
+      "83",
+      "85",
+      "93",
+      "95"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 1,
+        "premio": "1.097.238,85"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 4,
+        "premio": "45.340,74"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 54,
+        "premio": "2.099,11"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 491,
+        "premio": "230,85"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 3230,
+        "premio": "35,09"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 16558,
+        "premio": "6,84"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "Minas Gerais",
+        "uf": "MG",
+        "vencedores": "1",
+        "latitude": "-18.512178",
+        "longitude": "-44.5550308",
+        "cidades": [
+          {
+            "cidade": "",
+            "vencedores": "1",
+            "latitude": null,
+            "longitude": null
+          }
+        ]
+      }
+    ],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 600 Mil",
+    "dataProxConcurso": "23/03/2022",
+    "proxConcurso": 2290,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2288,
+    "data": "18/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "07",
+      "09",
+      "27",
+      "30",
+      "38",
+      "45",
+      "46",
+      "48",
+      "51",
+      "54",
+      "56",
+      "60",
+      "61",
+      "74",
+      "76",
+      "82",
+      "85",
+      "88",
+      "90",
+      "92"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 3,
+        "premio": "59.084,83"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 59,
+        "premio": "1.877,70"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 524,
+        "premio": "211,41"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 3255,
+        "premio": "34,03"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 13476,
+        "premio": "8,22"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2289,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
+    "concurso": 2287,
+    "data": "16/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "01",
+      "09",
+      "14",
+      "21",
+      "24",
+      "29",
+      "38",
+      "42",
+      "46",
+      "49",
+      "52",
+      "54",
+      "58",
+      "59",
+      "69",
+      "70",
+      "74",
+      "81",
+      "83",
+      "90"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "20 Pontos",
+        "vencedores": 1,
+        "premio": "2.956.008,38"
+      },
+      {
+        "acertos": "19 Pontos",
+        "vencedores": 4,
+        "premio": "55.919,19"
+      },
+      {
+        "acertos": "18 Pontos",
+        "vencedores": 90,
+        "premio": "1.553,31"
+      },
+      {
+        "acertos": "17 Pontos",
+        "vencedores": 681,
+        "premio": "205,28"
+      },
+      {
+        "acertos": "16 Pontos",
+        "vencedores": 4471,
+        "premio": "31,26"
+      },
+      {
+        "acertos": "15 Pontos",
+        "vencedores": 16911,
+        "premio": "8,26"
+      },
+      {
+        "acertos": "0 Pontos",
+        "vencedores": 1,
+        "premio": "111.838,40"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "São Paulo",
+        "uf": "SP",
+        "vencedores": "1",
+        "latitude": "-23.5557714",
+        "longitude": "-46.6395571",
+        "cidades": [
+          {
+            "cidade": "",
+            "vencedores": "1",
+            "latitude": null,
+            "longitude": null
+          }
+        ]
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2288,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "lotomania",
+    "nome": "Lotomania",
     "concurso": 2286,
     "data": "14/03/2022",
     "local": "ESPAÇODASORTE em SÃOPAULO,SP",
@@ -66,8 +1006,8 @@
     ],
     "estadosPremiados": [],
     "acumulou": true,
-    "acumuladaProxConcurso": "R$ 3 Milhões",
-    "dataProxConcurso": "16/03/2022",
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
     "proxConcurso": 2287,
     "timeCoracao": null,
     "mesSorte": null

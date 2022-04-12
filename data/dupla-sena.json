@@ -2,9 +2,569 @@
   {
     "loteria": "dupla-sena",
     "nome": "Dupla Sena",
+    "concurso": 2354,
+    "data": "02/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "09",
+      "25",
+      "37",
+      "42",
+      "46",
+      "50",
+      "11",
+      "18",
+      "20",
+      "23",
+      "26",
+      "48"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 14,
+        "premio": "4.493,07"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 761,
+        "premio": "94,46"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 14056,
+        "premio": "2,55"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 16,
+        "premio": "3.538,30"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 671,
+        "premio": "107,13"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 13204,
+        "premio": "2,72"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 30 Milhões",
+    "dataProxConcurso": "16/04/2022",
+    "proxConcurso": 2355,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2353,
+    "data": "31/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "10",
+      "20",
+      "21",
+      "29",
+      "34",
+      "41",
+      "01",
+      "10",
+      "12",
+      "23",
+      "33",
+      "37"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 6,
+        "premio": "8.640,24"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 467,
+        "premio": "126,86"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 9288,
+        "premio": "3,18"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 9,
+        "premio": "5.184,15"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 637,
+        "premio": "93,01"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 12149,
+        "premio": "2,43"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2354,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2352,
+    "data": "29/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "10",
+      "12",
+      "20",
+      "29",
+      "38",
+      "50",
+      "01",
+      "16",
+      "36",
+      "38",
+      "39",
+      "41"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 11,
+        "premio": "4.442,31"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 560,
+        "premio": "99,72"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 10154,
+        "premio": "2,74"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 6,
+        "premio": "7.329,81"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 429,
+        "premio": "130,17"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 8480,
+        "premio": "3,29"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2353,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2351,
+    "data": "26/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "11",
+      "23",
+      "25",
+      "39",
+      "44",
+      "50",
+      "11",
+      "19",
+      "23",
+      "24",
+      "34",
+      "37"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 12,
+        "premio": "4.318,58"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 628,
+        "premio": "94,30"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 12117,
+        "premio": "2,44"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 9,
+        "premio": "5.182,29"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 533,
+        "premio": "111,11"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 11418,
+        "premio": "2,59"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2352,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2350,
+    "data": "24/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "04",
+      "10",
+      "13",
+      "36",
+      "39",
+      "45",
+      "07",
+      "08",
+      "18",
+      "37",
+      "39",
+      "44"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 8,
+        "premio": "5.853,96"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 527,
+        "premio": "101,55"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 10504,
+        "premio": "2,54"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 7,
+        "premio": "6.021,22"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 468,
+        "premio": "114,36"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 9785,
+        "premio": "2,73"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 1,7 Milhão",
+    "dataProxConcurso": "26/03/2022",
+    "proxConcurso": 2351,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2349,
+    "data": "22/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "06",
+      "15",
+      "18",
+      "38",
+      "39",
+      "41",
+      "01",
+      "05",
+      "07",
+      "33",
+      "43",
+      "48"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 12,
+        "premio": "3.896,88"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 391,
+        "premio": "136,68"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 9015,
+        "premio": "2,96"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 9,
+        "premio": "4.676,26"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 511,
+        "premio": "104,58"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 10728,
+        "premio": "2,49"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 1,5 Milhão",
+    "dataProxConcurso": "24/03/2022",
+    "proxConcurso": 2350,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2348,
+    "data": "19/03/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "09",
+      "22",
+      "30",
+      "31",
+      "32",
+      "33",
+      "02",
+      "24",
+      "32",
+      "34",
+      "39",
+      "42"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 9,
+        "premio": "5.195,19"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 434,
+        "premio": "123,12"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 8514,
+        "premio": "3,13"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 5,
+        "premio": "8.416,21"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 486,
+        "premio": "109,95"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 8945,
+        "premio": "2,98"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 1,3 Milhão",
+    "dataProxConcurso": "22/03/2022",
+    "proxConcurso": 2349,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
+    "concurso": 2347,
+    "data": "17/03/2022",
+    "local": "ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP",
+    "dezenas": [
+      "25",
+      "33",
+      "37",
+      "41",
+      "44",
+      "50",
+      "18",
+      "25",
+      "27",
+      "36",
+      "44",
+      "48"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 10,
+        "premio": "4.118,19"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 550,
+        "premio": "85,57"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 9612,
+        "premio": "2,44"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 15,
+        "premio": "2.470,91"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 588,
+        "premio": "80,04"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 9977,
+        "premio": "2,35"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2348,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "dupla-sena",
+    "nome": "Dupla Sena",
     "concurso": 2346,
     "data": "15/03/2022",
-    "local": "",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
     "dezenas": [
       "07",
       "11",
@@ -19,10 +579,51 @@
       "38",
       "45"
     ],
-    "premiacoes": [],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 7,
+        "premio": "5.811,90"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 560,
+        "premio": "83,02"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 9779,
+        "premio": "2,37"
+      },
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 9,
+        "premio": "4.068,33"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 397,
+        "premio": "117,11"
+      },
+      {
+        "acertos": "Terno",
+        "vencedores": 8982,
+        "premio": "2,58"
+      }
+    ],
     "estadosPremiados": [],
-    "acumulou": false,
-    "acumuladaProxConcurso": "a definir",
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 800 Mil",
     "dataProxConcurso": "17/03/2022",
     "proxConcurso": 2347,
     "timeCoracao": null,
