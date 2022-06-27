@@ -2,6 +2,1556 @@
   {
     "loteria": "super-sete",
     "nome": "Super Sete",
+    "concurso": 261,
+    "data": "24/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "2",
+      "5",
+      "0",
+      "1",
+      "9",
+      "3",
+      "3"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 6,
+        "premio": "5.738,54"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 87,
+        "premio": "565,37"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 1371,
+        "premio": "35,87"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 9979,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 3,8 Milhões",
+    "dataProxConcurso": "27/06/2022",
+    "proxConcurso": 262,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 260,
+    "data": "22/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "6",
+      "6",
+      "0",
+      "9",
+      "4",
+      "4",
+      "2"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "36.040,95"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 44,
+        "premio": "1.170,16"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 749,
+        "premio": "68,74"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7383,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 261,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 259,
+    "data": "20/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "1",
+      "8",
+      "1",
+      "9",
+      "5",
+      "0",
+      "3"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "19.245,31"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 55,
+        "premio": "999,75"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 1017,
+        "premio": "54,06"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 9524,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 3,5 Milhões",
+    "dataProxConcurso": "22/06/2022",
+    "proxConcurso": 260,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 258,
+    "data": "17/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "2",
+      "9",
+      "7",
+      "0",
+      "7",
+      "7",
+      "1"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "16.575,66"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 45,
+        "premio": "1.052,42"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 871,
+        "premio": "54,37"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7661,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 3,4 Milhões",
+    "dataProxConcurso": "20/06/2022",
+    "proxConcurso": 259,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 257,
+    "data": "15/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "1",
+      "0",
+      "6",
+      "0",
+      "0",
+      "5",
+      "5"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "31.759,26"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 50,
+        "premio": "907,40"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 802,
+        "premio": "56,57"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7231,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 3,3 Milhões",
+    "dataProxConcurso": "17/06/2022",
+    "proxConcurso": 258,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 256,
+    "data": "13/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "7",
+      "7",
+      "0",
+      "9",
+      "4",
+      "9",
+      "3"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 52,
+        "premio": "874,25"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 732,
+        "premio": "62,10"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6739,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 257,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 255,
+    "data": "10/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "4",
+      "7",
+      "0",
+      "6",
+      "1",
+      "9",
+      "8"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "16.113,35"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 77,
+        "premio": "597,89"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 961,
+        "premio": "47,90"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7735,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 3 Milhões",
+    "dataProxConcurso": "13/06/2022",
+    "proxConcurso": 256,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 254,
+    "data": "08/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "8",
+      "3",
+      "8",
+      "9",
+      "4",
+      "2",
+      "0"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "32.439,25"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 43,
+        "premio": "1.077,71"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 727,
+        "premio": "63,74"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6940,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 2,9 Milhões",
+    "dataProxConcurso": "10/06/2022",
+    "proxConcurso": 255,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 253,
+    "data": "06/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "7",
+      "0",
+      "8",
+      "8",
+      "3",
+      "7",
+      "5"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "34.220,49"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 48,
+        "premio": "1.018,46"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 699,
+        "premio": "69,93"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6933,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 254,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 252,
+    "data": "03/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "0",
+      "4",
+      "7",
+      "0",
+      "7",
+      "5",
+      "4"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 3,
+        "premio": "12.480,97"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 55,
+        "premio": "972,54"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 838,
+        "premio": "63,83"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7857,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 253,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 251,
+    "data": "01/06/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "7",
+      "6",
+      "9",
+      "9",
+      "2",
+      "2",
+      "0"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 40,
+        "premio": "1.114,74"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 733,
+        "premio": "60,83"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6445,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 252,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 250,
+    "data": "30/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "0",
+      "7",
+      "4",
+      "1",
+      "5",
+      "7",
+      "8"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "14.917,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 46,
+        "premio": "926,52"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 877,
+        "premio": "48,59"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7467,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 251,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 249,
+    "data": "27/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "8",
+      "7",
+      "6",
+      "7",
+      "8",
+      "2",
+      "4"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "14.180,02"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 29,
+        "premio": "1.397,04"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 585,
+        "premio": "69,25"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5697,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 250,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 248,
+    "data": "25/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "9",
+      "2",
+      "4",
+      "6",
+      "3",
+      "1",
+      "4"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "13.461,02"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 48,
+        "premio": "801,25"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 757,
+        "premio": "50,80"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5873,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 249,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 247,
+    "data": "23/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "0",
+      "9",
+      "9",
+      "5",
+      "0",
+      "5",
+      "5"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 31,
+        "premio": "1.357,39"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 635,
+        "premio": "66,26"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6040,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 248,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 246,
+    "data": "20/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "4",
+      "9",
+      "0",
+      "5",
+      "4",
+      "9",
+      "3"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "29.558,16"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 35,
+        "premio": "1.206,45"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 589,
+        "premio": "71,69"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5831,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 247,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 245,
+    "data": "18/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "6",
+      "7",
+      "9",
+      "0",
+      "2",
+      "1",
+      "7"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 39,
+        "premio": "928,57"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 545,
+        "premio": "66,44"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5226,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 246,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 244,
+    "data": "16/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "6",
+      "5",
+      "5",
+      "5",
+      "3",
+      "9",
+      "7"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 37,
+        "premio": "1.069,30"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 657,
+        "premio": "60,21"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6117,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 245,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 243,
+    "data": "13/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "9",
+      "9",
+      "5",
+      "7",
+      "0",
+      "9",
+      "0"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 3,
+        "premio": "8.996,26"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 47,
+        "premio": "820,32"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 690,
+        "premio": "55,87"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6123,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 244,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 242,
+    "data": "11/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "6",
+      "1",
+      "6",
+      "9",
+      "3",
+      "4",
+      "1"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 4,
+        "premio": "6.878,44"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 24,
+        "premio": "1.637,72"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 559,
+        "premio": "70,31"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5417,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 243,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 241,
+    "data": "09/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "2",
+      "4",
+      "9",
+      "8",
+      "3",
+      "6",
+      "1"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "28.160,26"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 53,
+        "premio": "759,03"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 792,
+        "premio": "50,79"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6707,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 1,3 Milhão",
+    "dataProxConcurso": "11/05/2022",
+    "proxConcurso": 242,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 240,
+    "data": "06/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "2",
+      "5",
+      "1",
+      "9",
+      "4",
+      "7",
+      "7"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 4,
+        "premio": "6.583,25"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 57,
+        "premio": "659,97"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 870,
+        "premio": "43,23"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 7107,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 241,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 239,
+    "data": "04/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "3",
+      "3",
+      "1",
+      "5",
+      "8",
+      "1",
+      "2"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "12.475,31"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 34,
+        "premio": "1.048,34"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 625,
+        "premio": "57,02"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5786,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 240,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 238,
+    "data": "02/05/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "2",
+      "0",
+      "9",
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 0,
+        "premio": "0,00"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 42,
+        "premio": "896,22"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 607,
+        "premio": "62,01"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5537,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 1 Milhão",
+    "dataProxConcurso": "04/05/2022",
+    "proxConcurso": 239,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 237,
+    "data": "29/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "6",
+      "2",
+      "7",
+      "6",
+      "3",
+      "2",
+      "7"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "24.549,70"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 42,
+        "premio": "835,02"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 568,
+        "premio": "61,74"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5527,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 238,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 236,
+    "data": "27/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "7",
+      "0",
+      "7",
+      "2",
+      "9",
+      "4",
+      "3"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 3,
+        "premio": "7.513,51"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 25,
+        "premio": "1.288,03"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 500,
+        "premio": "64,40"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5027,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 237,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 235,
+    "data": "25/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "9",
+      "7",
+      "6",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "22.332,64"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 35,
+        "premio": "911,53"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 493,
+        "premio": "64,71"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 4934,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 236,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 234,
+    "data": "22/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "1",
+      "8",
+      "8",
+      "8",
+      "9",
+      "6",
+      "7"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "9.337,93"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 34,
+        "premio": "784,70"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 580,
+        "premio": "45,99"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5107,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 235,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 233,
+    "data": "20/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "0",
+      "2",
+      "7",
+      "4",
+      "4",
+      "2",
+      "4"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "21.964,54"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 40,
+        "premio": "784,44"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 497,
+        "premio": "63,13"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5214,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 234,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 232,
+    "data": "18/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "1",
+      "0",
+      "8",
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 2,
+        "premio": "12.428,53"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 46,
+        "premio": "771,95"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 619,
+        "premio": "57,36"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 5959,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 233,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
+    "concurso": 231,
+    "data": "13/04/2022",
+    "local": "ESPAÇODASORTE em SAOPAULO,SP",
+    "dezenas": [
+      "4",
+      "4",
+      "8",
+      "2",
+      "8",
+      "0",
+      "7"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "7 Pontos",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "6 Pontos",
+        "vencedores": 1,
+        "premio": "30.563,66"
+      },
+      {
+        "acertos": "5 Pontos",
+        "vencedores": 40,
+        "premio": "1.091,55"
+      },
+      {
+        "acertos": "4 Pontos",
+        "vencedores": 669,
+        "premio": "65,26"
+      },
+      {
+        "acertos": "3 Pontos",
+        "vencedores": 6587,
+        "premio": "5,00"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 232,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "super-sete",
+    "nome": "Super Sete",
     "concurso": 230,
     "data": "08/04/2022",
     "local": "ESPAÇODASORTE em SAOPAULO,SP",
@@ -43,8 +1593,8 @@
     ],
     "estadosPremiados": [],
     "acumulou": true,
-    "acumuladaProxConcurso": "R$ 400 Mil",
-    "dataProxConcurso": "13/04/2022",
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
     "proxConcurso": 231,
     "timeCoracao": null,
     "mesSorte": null

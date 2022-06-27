@@ -2,6 +2,1015 @@
   {
     "loteria": "mega-sena",
     "nome": "Mega-Sena",
+    "concurso": 2494,
+    "data": "25/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "01",
+      "04",
+      "10",
+      "22",
+      "53",
+      "54"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 1,
+        "premio": "78.763.087,85"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 157,
+        "premio": "35.919,96"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 11899,
+        "premio": "677,05"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 35 Milhões",
+    "dataProxConcurso": "28/06/2022",
+    "proxConcurso": 2495,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2493,
+    "data": "22/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "04",
+      "09",
+      "37",
+      "43",
+      "44",
+      "56"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 149,
+        "premio": "34.422,27"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 9549,
+        "premio": "767,30"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2494,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2492,
+    "data": "18/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "10",
+      "30",
+      "31",
+      "33",
+      "42",
+      "52"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 65,
+        "premio": "71.634,15"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 6645,
+        "premio": "1.001,01"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 70 Milhões",
+    "dataProxConcurso": "22/06/2022",
+    "proxConcurso": 2493,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2491,
+    "data": "15/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "22",
+      "29",
+      "38",
+      "43",
+      "48",
+      "53"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 83,
+        "premio": "53.600,57"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 6198,
+        "premio": "1.025,41"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 60 Milhões",
+    "dataProxConcurso": "18/06/2022",
+    "proxConcurso": 2492,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2490,
+    "data": "11/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "11",
+      "16",
+      "17",
+      "41",
+      "46",
+      "59"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 65,
+        "premio": "65.482,06"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 5432,
+        "premio": "1.119,38"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2491,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2489,
+    "data": "08/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "03",
+      "10",
+      "13",
+      "25",
+      "41",
+      "42"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 92,
+        "premio": "29.078,19"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 6187,
+        "premio": "617,69"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 40 Milhões",
+    "dataProxConcurso": "11/06/2022",
+    "proxConcurso": 2490,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2488,
+    "data": "04/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "17",
+      "31",
+      "34",
+      "40",
+      "56",
+      "57"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 39,
+        "premio": "54.865,83"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 2541,
+        "premio": "1.202,99"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2489,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2487,
+    "data": "02/06/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "23",
+      "36",
+      "42",
+      "48",
+      "54",
+      "58"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 1,
+        "premio": "3.681.934,22"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 141,
+        "premio": "14.175,63"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 4588,
+        "premio": "622,35"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "Rio de Janeiro",
+        "uf": "RJ",
+        "vencedores": "1",
+        "latitude": "34.948626",
+        "longitude": "@@GTo08",
+        "cidades": [
+          {
+            "cidade": "",
+            "vencedores": "1",
+            "latitude": null,
+            "longitude": null
+          }
+        ]
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2488,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2486,
+    "data": "31/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "08",
+      "09",
+      "17",
+      "19",
+      "33",
+      "56"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 1,
+        "premio": "117.557.270,98"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 231,
+        "premio": "27.876,31"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 15582,
+        "premio": "590,37"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "Santa Catarina",
+        "uf": "SC",
+        "vencedores": "1",
+        "latitude": "-27.336122",
+        "longitude": "-50.071794",
+        "cidades": [
+          {
+            "cidade": "Blumenau",
+            "vencedores": "1",
+            "latitude": "-26.9165792",
+            "longitude": "-49.0717331"
+          }
+        ]
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2487,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2485,
+    "data": "28/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "05",
+      "12",
+      "32",
+      "38",
+      "47",
+      "60"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 188,
+        "premio": "46.388,86"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 13488,
+        "premio": "923,68"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 120 Milhões",
+    "dataProxConcurso": "31/05/2022",
+    "proxConcurso": 2486,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2484,
+    "data": "25/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "11",
+      "14",
+      "36",
+      "41",
+      "54",
+      "59"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 121,
+        "premio": "45.019,83"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 7558,
+        "premio": "1.029,63"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2485,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2483,
+    "data": "21/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "20",
+      "34",
+      "38",
+      "40",
+      "49",
+      "54"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 72,
+        "premio": "74.529,17"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 5242,
+        "premio": "1.462,39"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2484,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2482,
+    "data": "18/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "01",
+      "32",
+      "35",
+      "44",
+      "45",
+      "57"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 52,
+        "premio": "82.539,97"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 5101,
+        "premio": "1.202,02"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2483,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2481,
+    "data": "14/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "01",
+      "08",
+      "21",
+      "27",
+      "36",
+      "37"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 72,
+        "premio": "62.081,21"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 5710,
+        "premio": "1.118,30"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2482,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2480,
+    "data": "11/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "04",
+      "06",
+      "09",
+      "31",
+      "50",
+      "56"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 74,
+        "premio": "46.356,22"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 4757,
+        "premio": "1.030,16"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2481,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2479,
+    "data": "07/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "10",
+      "15",
+      "17",
+      "20",
+      "21",
+      "35"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 1,
+        "premio": "4.456.908,10"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 90,
+        "premio": "26.882,94"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 5989,
+        "premio": "577,12"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "Rio de Janeiro",
+        "uf": "RJ",
+        "vencedores": "1",
+        "latitude": "34.948626",
+        "longitude": "@@GTo08",
+        "cidades": [
+          {
+            "cidade": "Vassouras",
+            "vencedores": "1",
+            "latitude": null,
+            "longitude": null
+          }
+        ]
+      }
+    ],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 27 Milhões",
+    "dataProxConcurso": "11/05/2022",
+    "proxConcurso": 2480,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2478,
+    "data": "04/05/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "02",
+      "17",
+      "23",
+      "28",
+      "39",
+      "46"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 1,
+        "premio": "58.922.844,33"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 196,
+        "premio": "27.088,07"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 10963,
+        "premio": "691,84"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "Santa Catarina",
+        "uf": "SC",
+        "vencedores": "1",
+        "latitude": "-27.336122",
+        "longitude": "-50.071794",
+        "cidades": []
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2479,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2477,
+    "data": "30/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "20",
+      "33",
+      "37",
+      "38",
+      "49",
+      "50"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 45,
+        "premio": "95.131,71"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 4787,
+        "premio": "1.277,54"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 60 Milhões",
+    "dataProxConcurso": "04/05/2022",
+    "proxConcurso": 2478,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2476,
+    "data": "28/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "02",
+      "07",
+      "32",
+      "46",
+      "49",
+      "55"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 72,
+        "premio": "45.992,87"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 4799,
+        "premio": "985,76"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 48 Milhões",
+    "dataProxConcurso": "30/04/2022",
+    "proxConcurso": 2477,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2475,
+    "data": "26/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "01",
+      "40",
+      "44",
+      "45",
+      "58",
+      "60"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 44,
+        "premio": "56.378,81"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 3054,
+        "premio": "1.160,38"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 40 Milhões",
+    "dataProxConcurso": "28/04/2022",
+    "proxConcurso": 2476,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2474,
+    "data": "23/04/2022",
+    "local": "ESPAÇO LOTERIAS CAIXA em SÃO PAULO, SP",
+    "dezenas": [
+      "22",
+      "30",
+      "38",
+      "39",
+      "49",
+      "56"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 27,
+        "premio": "92.717,92"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 2372,
+        "premio": "1.507,69"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 36 Milhões",
+    "dataProxConcurso": "26/04/2022",
+    "proxConcurso": 2475,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2473,
+    "data": "20/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "15",
+      "18",
+      "28",
+      "42",
+      "55",
+      "60"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 23,
+        "premio": "87.936,68"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 2630,
+        "premio": "1.098,61"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2474,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2472,
+    "data": "16/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "05",
+      "13",
+      "18",
+      "23",
+      "35",
+      "36"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 1,
+        "premio": "66.733.761,74"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 233,
+        "premio": "21.613,45"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 14583,
+        "premio": "493,32"
+      }
+    ],
+    "estadosPremiados": [
+      {
+        "nome": "São Paulo",
+        "uf": "SP",
+        "vencedores": "1",
+        "latitude": "-23.5557714",
+        "longitude": "-46.6395571",
+        "cidades": [
+          {
+            "cidade": "Guarulhos",
+            "vencedores": "1",
+            "latitude": "-23.4543395",
+            "longitude": "-46.5336678"
+          }
+        ]
+      }
+    ],
+    "acumulou": false,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2473,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2471,
+    "data": "13/04/2022",
+    "local": "ESPAÇODASORTE em SÃOPAULO,SP",
+    "dezenas": [
+      "08",
+      "23",
+      "29",
+      "30",
+      "36",
+      "55"
+    ],
+    "premiacoes": [
+      {
+        "acertos": "Sena",
+        "vencedores": 0,
+        "premio": "-"
+      },
+      {
+        "acertos": "Quina",
+        "vencedores": 95,
+        "premio": "52.849,61"
+      },
+      {
+        "acertos": "Quadra",
+        "vencedores": 7346,
+        "premio": "976,37"
+      }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 70 Milhões",
+    "dataProxConcurso": "16/04/2022",
+    "proxConcurso": 2472,
+    "timeCoracao": null,
+    "mesSorte": null
+  },
+  {
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
     "concurso": 2470,
     "data": "09/04/2022",
     "local": "ESPAÇODASORTE em SÃOPAULO,SP",
@@ -32,8 +1041,8 @@
     ],
     "estadosPremiados": [],
     "acumulou": true,
-    "acumuladaProxConcurso": "R$ 60 Milhões",
-    "dataProxConcurso": "13/04/2022",
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
     "proxConcurso": 2471,
     "timeCoracao": null,
     "mesSorte": null
